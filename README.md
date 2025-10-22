@@ -7,6 +7,7 @@ Official code repository of the paper "Confidence Breeds Success: Improving Fake
 
 ## Run
 ```
+pip install -r requirements.txt
 cd code
 python main.py
 ```
